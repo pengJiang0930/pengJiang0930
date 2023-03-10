@@ -1,4 +1,3 @@
-<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
 
 ### _Hi there 👋, I'm JiangPeng._
 
@@ -15,3 +14,4 @@
   
 
 ​	I have studied Spring, SpringCloud, Netty, Kafka, RocketMQ, Redis, MySQL and other technologies in depth. I have my own understanding of high concurrency, high availability and high performance. I am familiar with various solutions for distributed microservices. Next, I want to develop an open source project that can handle 100k QPS. I hope to succeed.
+<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
